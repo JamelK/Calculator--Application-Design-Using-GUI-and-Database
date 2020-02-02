@@ -1,0 +1,20 @@
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\bin\Debug\Calculator.exe
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\bin\Debug\Calculator.pdb
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\obj\Debug\Calculator.exe
+C:\Users\jamel\Desktop\fall 2019\c++ files\Calculator\obj\Debug\Calculator.pdb
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\bin\Debug\Calculator.exe.config
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\bin\Debug\Calculator.exe
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\bin\Debug\Calculator.pdb
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\obj\Debug\Calculator.Calculator.resources
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\obj\Debug\Calculator.Properties.Resources.resources
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\obj\Debug\Calculator.exe
+F:\DESKTOP11.20.2018\All School\fall 2019\c++ files\KalawiCalculator\obj\Debug\Calculator.pdb
